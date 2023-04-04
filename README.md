@@ -3,6 +3,7 @@
 <br />
 
 <div align="center">
+    <img src="/img/logo.png" />
     <img src="/img/exportSS.png" />
 </div>
 
